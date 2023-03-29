@@ -8,9 +8,9 @@ If you read this, you managed to find our GitHub repository for DSML - good job!
 
 ## 2. Anaconda or Miniconda
 
-We will be using the open-source Python programming language. We recommend using the Anaconada or Miniconda distribution of Python. You can choose one of two options:
-– Option 1 (probably the easiest): Install the full Anaconda version, which comes with a lot of pre-installed packages (incl. Jupyter Notebook) and a package manager graphical user interface (GUI). **It is available for download [here](https://www.anaconda.com/distribution/).**
-– Option 2 (for slightly more advanced users and if you are short on disk space): Install the much lighter MiniConda distribution which essentially is just the Conda package manager and Python. From there your can simply install Python packages as required via the Terminal (Mac) or the Command Prompt (Windows). **Miniconda is available for download [here](https://docs.conda.io/en/latest/miniconda.html).**
+We will be using the open-source Python programming language. We recommend using the Anaconda or Miniconda distribution of Python. You can choose one of two options:
+- Option 1 (probably the easiest): Install the full Anaconda version, which comes with a lot of pre-installed packages (incl. Jupyter Notebook) and a package manager graphical user interface (GUI). **It is available for download [here](https://www.anaconda.com/distribution/).**
+- Option 2 (for slightly more advanced users and if you are short on disk space): Install the much lighter MiniConda distribution which essentially is just the Conda package manager and Python. From there your can simply install Python packages as required via the Terminal (Mac) or the Command Prompt (Windows). **Miniconda is available for download [here](https://docs.conda.io/en/latest/miniconda.html).**
 
 ## 3. Installing required packages
 
