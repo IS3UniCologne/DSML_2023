@@ -37,12 +37,9 @@ conda install numpy scipy matplotlib pandas
 You might be asked to confirm before installing a package (y/n?). Confirm by typing y and hit enter.
 
 You can easily check which packages are installed by executing the following command in your terminal:
-```
-conda list
+`conda list`
 
-```
-
-## 4. Jupyter Notebook
+## 4. Launch Jupyter Notebook
 
 As mentioned before, we will be using Jupyter Notebooks throughout the workshops. Notebooks are a convenient way to thread text, code and the output it produces in a simple file that you can then share, edit and modify. You can think of notebooks as the **Word document of Data Scientists**. Jupyter is a browser-based coding environment. If you managed to complete all previous steps successfully, you should be able to launch Jupyter by doing the following:
 1. Start up a terminal (as described above).
@@ -51,7 +48,7 @@ As mentioned before, we will be using Jupyter Notebooks throughout the workshops
 3. Launch Jupyter by typing:
 `jupyter notebook`
 
-This should bring up a browser window with a homepage showing all your folders and files. As mentioned earlier, we will upload a Jupyter Notebook file (.ipynb) shortly before the start of every workshop. Make sure to download it. Once you have the notebook file downloaded, you can navigate to it and open it up within your Jupyter window.
+This should bring up a browser window with a homepage showing all your folders and files. As mentioned earlier, we will upload a Jupyter Notebook file (.ipynb) shortly before the start of every workshop. Make sure to download it. Once you have the notebook file downloaded, you can navigate to it and open it up within the Jupyter Notebook server you just launched.
 
 
 # 5. Final Remarks
