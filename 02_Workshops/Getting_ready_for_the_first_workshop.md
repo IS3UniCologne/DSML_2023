@@ -51,7 +51,7 @@ As mentioned before, we will be using Jupyter Notebooks throughout the workshops
 This should bring up a browser window with a homepage showing all your folders and files. As mentioned earlier, we will upload a Jupyter Notebook file (.ipynb) shortly before the start of every workshop. Make sure to download it. Once you have the notebook file downloaded, you can navigate to it and open it up within the Jupyter Notebook server you just launched.
 
 
-# 5. Final Remarks
+## 5. Final Remarks
 
 If you worked through the steps and were able to launch the Jupyter Notebook server you are ready to go for the first workshop! If you got stuck somewhere, don't worry! We will shortly go over the process once again during Workshop 1. Additionally, you can find an abundance of information and support on the internet.
 
