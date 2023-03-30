@@ -31,7 +31,7 @@ If you have installed the Miniconda distribution, which comes without any pre-in
 ```
 conda update -n base conda
 conda install jupyter
-conda install jupyter lab
+conda install jupyterlab
 conda install numpy scipy matplotlib pandas
 ```
 You might be asked to confirm before installing a package (y/n?). Confirm by typing y and hit enter.
